@@ -1,31 +1,36 @@
 # 👋 Hi, I'm Ezequiel
 
-  Data Science student
-  Building skills in Python and JavaScript
-  Focused on problem-solving and development fundamentals
+- Data Science student  
+- Building skills in Python and JavaScript  
+- Focused on problem-solving and development fundamentals  
 
-## 🔎 About me
+---
 
-  I'm a Data Science student building a solid foundation in programming and software development.
-  My main experience is with Python, and I'm currently expanding my skills by learning JavaScript and core development concepts, while continuously improving my      problem-solving abilities.
+## 🔎 About Me
 
-  Meu objetivo é evoluir como desenvolvedor, consolidando minha base técnica e expandindo minhas habilidades para diferentes tecnologias, visando atuar futuramente   em áreas mais avançadas como engenharia de software e sistemas inteligentes.
+I'm a Data Science student building a solid foundation in programming and software development.  
+My primary experience is with Python, and I'm currently expanding my skill set by learning JavaScript and core development concepts, while continuously improving my problem-solving abilities.
+
+My goal is to grow as a developer by strengthening my technical foundation and expanding my knowledge across different technologies, aiming to work in more advanced areas such as software engineering and intelligent systems in the future.
+
+---
 
 ## 💻 Tech Stack
 
-- Python
-- JavaScript
-- Programming Logic
-- Git & GitHub
+- Python  
+- JavaScript  
+- Programming Logic  
+- Git & GitHub  
 
-## 📃 Featured Projects
+---
 
-  🔹 Currently building my first practical projects — focused on consistency and real-world problem solving.
+## 📂 Featured Projects
 
-  🔹 Projetos em desenvolvimento — foco em prática consistente e resolução de problemas reais.
+🔹 Currently building my first practical projects, focused on consistency and real-world problem solving.  
 
-## ✉ Contact
+---
 
-LinkedIn: www.linkedin.com/in/almeida-ezequiel
+## ✉️ Contact
 
-Email: almeida.d.ezequiel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/almeida-ezequiel  
+- Email: almeida.d.ezequiel@gmail.com  
