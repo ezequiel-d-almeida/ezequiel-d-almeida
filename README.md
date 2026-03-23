@@ -26,5 +26,6 @@
 
 ## ✉ Contact
 
-  LinkedIn: Ezequiel Almeida
-  Email: almeida.d.ezequiel@gmail.com
+LinkedIn: www.linkedin.com/in/almeida-ezequiel
+
+Email: almeida.d.ezequiel@gmail.com
