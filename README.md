@@ -1,38 +1,30 @@
-# 👋 Hi, I'm Ezequiel
+Hi, I'm Ezequiel
 
-🎯 Data Science student
-💻 Focused on JavaScript development
-🚀 Seeking my first opportunity in tech
+  Data Science student
+  Building skills in Python and JavaScript
+  Focused on problem-solving and development fundamentals
 
----
+About me
 
-## 🧠 About
+  I'm a Data Science student building a solid foundation in programming and software development.
+  My main experience is with Python, and I'm currently expanding my skills by learning JavaScript and core development concepts, while continuously improving my      problem-solving abilities.
 
-I'm a Data Science student building a solid foundation in programming and software development.
-Currently, I’m focused on **JavaScript** and core development concepts, while continuously improving my problem-solving skills.
+  Meu objetivo é evoluir como desenvolvedor, consolidando minha base técnica e expandindo minhas habilidades para diferentes tecnologias, visando atuar futuramente   em áreas mais avançadas como engenharia de software e sistemas inteligentes.
 
-Meu objetivo é evoluir como desenvolvedor, consolidando minha base técnica e, no futuro, atuar em áreas mais avançadas como engenharia de software e sistemas inteligentes.
+Tech Stack
 
----
+  Python
+  JavaScript (in progress)
+  Programming Logic
+  Git & GitHub
 
-## 🛠️ Tech Stack
+Featured Projects
 
-* JavaScript (in progress)
-* Python
-* Git & GitHub
-* Programming Logic
+  🔹 Currently building my first practical projects — focused on consistency and real-world problem solving.
 
----
+  🔹 Projetos em desenvolvimento — foco em prática consistente e resolução de problemas reais.
 
-## 📂 Featured Projects
+📫 Contact
 
-🔹 Projects coming soon — currently focused on building consistent and practical experience.
-
-🔹 Projetos em breve — no momento, focado em desenvolver prática e consistência.
-
----
-
-## 📫 Contact
-
-* LinkedIn: (add here)
-* Email: (optional)
+  LinkedIn: Ezequiel Almeida
+  Email: almeida.d.ezequiel@gmail.com
