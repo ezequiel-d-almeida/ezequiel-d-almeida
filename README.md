@@ -17,9 +17,11 @@ My goal is to grow as a developer by strengthening my technical foundation and e
 
 ## 💻 Tech Stack
 
-- Python  
+- Python
+- Selenium | PyAutoGUI | Os & Pathlib  
+- HTML | CSS
 - JavaScript  
-- Programming Logic  
+- TypeScript  
 - Git & GitHub  
 
 ---
