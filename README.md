@@ -1,56 +1,86 @@
 <div align="center">
-███████╗███████╗███████╗ ██████╗ ██╗   ██╗██╗███████╗██╗
-██╔════╝╚══███╔╝██╔════╝██╔═══██╗██║   ██║██║██╔════╝██║
-█████╗    ███╔╝ █████╗  ██║   ██║██║   ██║██║█████╗  ██║
-██╔══╝   ███╔╝  ██╔══╝  ██║▄▄ ██║██║   ██║██║██╔══╝  ██║
-███████╗███████╗███████╗╚██████╔╝╚██████╔╝██║███████╗███████╗
-╚══════╝╚══════╝╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝╚══════╝╚══════╝
-> Data Science Student · > Python Developer · > Problem Solver
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+
+# Ezequiel Damasceno de Almeida
+
+### `> Data Science Student` · `> Python Developer` · `> Problem Solver`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almeida-ezequiel)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeida.d.ezequiel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezequiel-d-almeida)
+
 </div>
 
-whoami
-pythonclass Ezequiel:
+---
+
+## `whoami`
+
+```python
+class Ezequiel:
     role       = "Data Science Student"
     location   = "Brazil 🇧🇷"
     focus      = ["Python", "JavaScript", "Problem Solving"]
     currently  = "Building a solid foundation in software development"
     goal       = "Software Engineering & Intelligent Systems"
     mindset    = "Consistency > Intensity"
+```
 
-Building one brick at a time — focused on real-world problem solving and fundamentals that scale.
+> *Building one brick at a time — focused on real-world problem solving and fundamentals that scale.*
 
+---
 
-tech_stack.json
-json{
+## `tech_stack.json`
+
+```json
+{
   "languages": ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
   "automation": ["Selenium", "PyAutoGUI", "os", "pathlib"],
   "tools": ["Git", "GitHub"],
   "learning": ["Software Engineering", "Intelligent Systems", "Data Science"]
 }
+```
 
-featured_projects/
+---
+
+## `featured_projects/`
+
+```
 📂 portfolio/
 ├── 🔨  actively building...
 ├── 📌  focused on consistency
 └── 🎯  real-world problem solving
+```
 
-Projects incoming — watch this space.
+> Projects incoming — watch this space.
 
+---
 
-github_stats
+## `github_stats`
+
 <div align="center">
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+
+![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequiel-d-almeida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel-d-almeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ezequiel-d-almeida&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
 </div>
 
-./contact --open
-ChannelLink💼 LinkedInalmeida-ezequiel📧 Emailalmeida.d.ezequiel@gmail.com
+---
+
+## `./contact --open`
+
+| Channel | Link |
+|---|---|
+| 💼 LinkedIn | [almeida-ezequiel](https://www.linkedin.com/in/almeida-ezequiel) |
+| 📧 Email | [almeida.d.ezequiel@gmail.com](mailto:almeida.d.ezequiel@gmail.com) |
+
+---
 
 <div align="center">
-// always learning, always building
-Mostrar Imagem
-</div> 
+
+*`// always learning, always building`*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ezequiel-d-almeida&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
