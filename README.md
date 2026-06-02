@@ -1,38 +1,56 @@
-# 👋 Hi, I'm Ezequiel
+<div align="center">
+███████╗███████╗███████╗ ██████╗ ██╗   ██╗██╗███████╗██╗
+██╔════╝╚══███╔╝██╔════╝██╔═══██╗██║   ██║██║██╔════╝██║
+█████╗    ███╔╝ █████╗  ██║   ██║██║   ██║██║█████╗  ██║
+██╔══╝   ███╔╝  ██╔══╝  ██║▄▄ ██║██║   ██║██║██╔══╝  ██║
+███████╗███████╗███████╗╚██████╔╝╚██████╔╝██║███████╗███████╗
+╚══════╝╚══════╝╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝╚══════╝╚══════╝
+> Data Science Student · > Python Developer · > Problem Solver
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
 
-- Data Science student  
-- Building skills in Python and JavaScript  
-- Focused on problem-solving and development fundamentals  
+whoami
+pythonclass Ezequiel:
+    role       = "Data Science Student"
+    location   = "Brazil 🇧🇷"
+    focus      = ["Python", "JavaScript", "Problem Solving"]
+    currently  = "Building a solid foundation in software development"
+    goal       = "Software Engineering & Intelligent Systems"
+    mindset    = "Consistency > Intensity"
 
----
+Building one brick at a time — focused on real-world problem solving and fundamentals that scale.
 
-## 🔎 About Me
 
-I'm a Data Science student building a solid foundation in programming and software development.  
-My primary experience is with Python, and I'm currently expanding my skill set by learning JavaScript and core development concepts, while continuously improving my problem-solving abilities.
+tech_stack.json
+json{
+  "languages": ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+  "automation": ["Selenium", "PyAutoGUI", "os", "pathlib"],
+  "tools": ["Git", "GitHub"],
+  "learning": ["Software Engineering", "Intelligent Systems", "Data Science"]
+}
 
-My goal is to grow as a developer by strengthening my technical foundation and expanding my knowledge across different technologies, aiming to work in more advanced areas such as software engineering and intelligent systems in the future.
+featured_projects/
+📂 portfolio/
+├── 🔨  actively building...
+├── 📌  focused on consistency
+└── 🎯  real-world problem solving
 
----
+Projects incoming — watch this space.
 
-## 💻 Tech Stack
 
-- Python
-- Selenium | PyAutoGUI | Os & Pathlib  
-- HTML | CSS
-- JavaScript  
-- TypeScript  
-- Git & GitHub  
+github_stats
+<div align="center">
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
 
----
+./contact --open
+ChannelLink💼 LinkedInalmeida-ezequiel📧 Emailalmeida.d.ezequiel@gmail.com
 
-## 📂 Featured Projects
-
-🔹 Currently building my first practical projects, focused on consistency and real-world problem solving.  
-
----
-
-## ✉️ Contact
-
-- LinkedIn: https://www.linkedin.com/in/almeida-ezequiel  
-- Email: almeida.d.ezequiel@gmail.com  
+<div align="center">
+// always learning, always building
+Mostrar Imagem
+</div> 
