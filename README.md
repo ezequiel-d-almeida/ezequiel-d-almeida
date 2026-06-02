@@ -2,7 +2,7 @@
 
 # Ezequiel Damasceno de Almeida
 
-### `> Data Science Student` · `> Python Developer` · `> Problem Solver`
+### `> Data Science Student` · `> Python Developer` · `> FrontEnd Developer`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almeida-ezequiel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeida.d.ezequiel@gmail.com)
@@ -58,10 +58,6 @@ class Ezequiel:
 
 <div align="center">
 
-![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequiel-d-almeida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel-d-almeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ezequiel-d-almeida&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
@@ -84,3 +80,4 @@ class Ezequiel:
 ![Visitor Count](https://komarev.com/ghpvc/?username=ezequiel-d-almeida&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
+
