@@ -126,7 +126,7 @@ Breve descrição do que o projeto faz e o problema que resolve.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezequiel-d-almeida&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequiel-d-almeida&theme=tokyonight&hide_border=true" />
 
 </div>
 
