@@ -1,149 +1,310 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ezequiel%20Almeida&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Dados%20%C2%B7%20Engenharia%20%C2%B7%20Frontend&descAlignY=54&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=8AB4F8&center=true&vCenter=true&width=680&lines=Engenharia+e+An%C3%A1lise+de+Dados;Desenvolvimento+Web+%7C+Frontend;Cursando+Ci%C3%AAncia+de+Dados+na+UFMS" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ezequiel%20Almeida&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Engenharia%20de%20Dados%20%C2%B7%20An%C3%A1lise%20de%20Dados%20%C2%B7%20Desenvolvimento%20Frontend&descAlignY=54&descSize=18&animation=fadeIn"/>
 
 </div>
 
-<br>
+# Engenharia de Dados aplicada a problemas reais.
 
-## Sobre
+Construo soluções capazes de transformar dados brutos em informações confiáveis para apoiar operações, análises e tomada de decisão.
 
-Atuo na construção de soluções orientadas a dados — da extração e modelagem à análise — com base sólida em desenvolvimento web, especialmente frontend. Curso **Ciência de Dados na UFMS**, unindo fundamentação acadêmica em dados com experiência prática na construção de interfaces e sistemas web, o que me dá visão de ponta a ponta entre o dado e o produto que o entrega.
+Meus projetos abrangem todo o ciclo de vida dos dados — da ingestão e processamento até a disponibilização das informações por meio de APIs, dashboards e aplicações web — sempre com foco em arquitetura, organização e qualidade de software.
 
-<br>
+Atualmente curso **Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS)**, onde consolido os fundamentos teóricos que aplico na construção de projetos voltados à Engenharia e à Análise de Dados.
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/Foco-Dados%20(Engenharia%20%26%20An%C3%A1lise)-1a1b26?style=for-the-badge&labelColor=0d0d14" />
-<img src="https://img.shields.io/badge/Base-Frontend%20%26%20Web-1a1b26?style=for-the-badge&labelColor=0d0d14" />
-<img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-UFMS%20%7C%20Ci%C3%AAncia%20de%20Dados-1a1b26?style=for-the-badge&labelColor=0d0d14" />
+## Princípios de Engenharia
 
-</div>
+Cada projeto deste portfólio é desenvolvido a partir da mesma premissa: **dados só geram valor quando são organizados em soluções confiáveis, reutilizáveis e sustentáveis.**
 
-<br>
+Por esse motivo, a tecnologia utilizada nunca é o ponto de partida. Antes de escrever código, procuro definir a arquitetura da solução, compreender o fluxo dos dados e separar claramente as responsabilidades de cada componente.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=2&section=header" width="100%"/>
-</div>
+Essa abordagem permite construir projetos que vão além de scripts isolados, evoluindo para aplicações capazes de integrar processos, centralizar informações e facilitar a tomada de decisão.
 
-<br>
+Os princípios que orientam meus projetos são:
 
-## Stack
+- Arquitetura modular e separação de responsabilidades;
+- Pipelines de dados organizados em etapas bem definidas;
+- Código legível, reutilizável e de fácil manutenção;
+- Modelagem consistente para armazenamento e consulta dos dados;
+- Documentação como parte integrante do desenvolvimento;
+- Soluções desenvolvidas para resolver problemas reais de negócio.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=STACK%20%26%20FERRAMENTAS&fontSize=30&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
-</div>
+---
 
-<br>
+## Como minhas soluções são construídas
 
-**Dados** — engenharia e análise
+Independentemente da tecnologia utilizada, meus projetos seguem uma arquitetura baseada em etapas bem definidas. Essa organização reduz o acoplamento entre componentes, facilita a manutenção do código e torna as soluções mais simples de evoluir.
 
-<div align="center">
-<img src="https://img.shields.io/badge/-Python-1a1b26?style=for-the-badge&logo=python&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-SQL-1a1b26?style=for-the-badge&logo=databricks&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=8AB4F8" />
-</div>
+```text
+              Problema de Negócio -->  Compreensão do Domínio --> Ingestão dos Dados --> Validação e Padronização
+                                                                                                    |
+                                                                                                    ▼
 
-<br>
+                                                                                      Transformação das Informações
+                                                                                                    │
+                                                                                                    ▼
 
-**Desenvolvimento Web** — foco em frontend
+              |--- Dashboards, Aplicações e Relatórios <-- Regras de Negócio e APIs <-- Persistência e Modelagem
+              │
+              ▼
+  Suporte à Tomada de Decisão
+```
 
-<div align="center">
-<img src="https://img.shields.io/badge/-HTML5-1a1b26?style=for-the-badge&logo=html5&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-CSS3-1a1b26?style=for-the-badge&logo=css3&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-React-1a1b26?style=for-the-badge&logo=react&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-Node.js-1a1b26?style=for-the-badge&logo=node.js&logoColor=8AB4F8" />
-</div>
+Essa estrutura é aplicada em diferentes tipos de projetos, desde pipelines ETL para processamento de documentos fiscais até aplicações web e soluções analíticas. O objetivo permanece o mesmo: transformar dados em ativos confiáveis que possam ser utilizados por pessoas, sistemas e processos de negócio.
 
-<br>
+---
 
-**Ferramentas**
+# Áreas de Atuação
 
-<div align="center">
-<img src="https://img.shields.io/badge/-Git-1a1b26?style=for-the-badge&logo=git&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-VS%20Code-1a1b26?style=for-the-badge&logo=visualstudiocode&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-Power%20BI-1a1b26?style=for-the-badge&logo=powerbi&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-Excel-1a1b26?style=for-the-badge&logo=microsoftexcel&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/-Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=8AB4F8" />
-</div>
+Meu portfólio reúne projetos que exploram diferentes etapas do ciclo de vida dos dados. Embora utilizem tecnologias distintas, todos compartilham o mesmo objetivo: desenvolver soluções que transformem informações em valor para pessoas e negócios.
 
-<br>
+## Engenharia de Dados
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=2&section=header" width="100%"/>
-</div>
+Desenvolvimento de pipelines para ingestão, processamento, transformação e disponibilização de dados, com foco em arquitetura, organização das informações e construção de soluções escaláveis.
 
-<br>
+> **Principais competências**
+>
+> • ETL e automação de processos
+>
+> • Processamento de XML, APIs, arquivos CSV e Excel
+>
+> • Modelagem e persistência de dados relacionais
+>
+> • Arquitetura de aplicações orientadas a dados
 
-## Projetos em destaque
+---
 
-<table>
-<tr>
-<td width="100%">
+## Análise de Dados
 
-### 🔗 [TaskFlow](https://github.com/ezequiel-d-almeida/TaskFlow)
+Construção de modelos analíticos e dashboards voltados ao acompanhamento de indicadores e apoio à tomada de decisão, conectando dados operacionais às necessidades do negócio.
 
-Gerenciador de tarefas com dashboard de produtividade, construído com TypeScript e Chart.js para visualização de dados de progresso.
+> **Principais competências**
+>
+> • Modelagem de dados
+>
+> • Desenvolvimento de dashboards
+>
+> • Definição de indicadores
+>
+> • Visualização de informações
 
-`TypeScript` `HTML5` `CSS3` `Chart.js`
+---
 
-**[Ver repositório](https://github.com/ezequiel-d-almeida/TaskFlow)** · **[Ver deploy](https://task-flow-gamma-dun.vercel.app)**
+## Desenvolvimento Front-end
 
-</td>
-</tr>
-</table>
+Desenvolvimento de interfaces responsáveis por disponibilizar produtos de dados de forma intuitiva, transformando informações estruturadas em aplicações acessíveis aos usuários finais.
 
-<!-- Espaço reservado para próximos projetos -->
-<!--
-<table>
-<tr>
-<td width="100%">
+> **Principais competências**
+>
+> • Interfaces responsivas
+>
+> • Consumo de APIs
+>
+> • Componentização
+>
+> • Integração entre frontend e backend
 
-### 🔗 [Nome do Projeto](link)
+---
 
-Breve descrição do que o projeto faz e o problema que resolve.
+# Stack Tecnológica
 
-`Stack usada`
+As tecnologias presentes neste portfólio são utilizadas como ferramentas para resolver problemas específicos dentro da construção de soluções de dados. Cada uma possui um papel definido na arquitetura dos projetos.
 
-**[Ver repositório](link)** · **[Ver deploy](link)**
+## Processamento e Engenharia de Dados
 
-</td>
-</tr>
-</table>
--->
+<div align="left">
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequiel-d-almeida&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-2F4F4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </div>
 
-<br>
+Responsáveis pelo processamento, transformação, integração e disponibilização dos dados.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=2&section=header" width="100%"/>
+---
+
+## Persistência e Modelagem
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </div>
 
-<br>
+Utilizados para modelagem, armazenamento e consulta das informações produzidas pelos pipelines.
 
-## Contato
+---
+
+## Visualização e Consumo dos Dados
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</div>
+
+Ferramentas utilizadas para exploração dos dados, construção de indicadores e apoio à tomada de decisão.
+
+---
+
+## Desenvolvimento de Aplicações
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
+
+Responsáveis pela construção de interfaces para consumo e interação com as soluções desenvolvidas.
+
+---
+
+## Engenharia de Software
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+Ferramentas utilizadas para versionamento, colaboração e padronização do ambiente de desenvolvimento.
+
+---
+
+# Soluções Desenvolvidas
+
+Os projetos deste portfólio foram desenvolvidos a partir de necessidades reais e representam diferentes etapas do ciclo de vida dos dados, desde a ingestão e processamento até a disponibilização das informações para usuários e sistemas.
+
+---
+
+## Sistema de Processamento de NF-e (ETL)
+
+Pipeline desenvolvido para automatizar a leitura, validação, transformação e consolidação de documentos fiscais eletrônicos (XML), convertendo milhares de registros em informações estruturadas para análise e controle operacional.
+
+**O que você encontrará neste projeto**
+
+- Arquitetura modular para processamento de XMLs;
+- Pipeline ETL organizado por responsabilidades;
+- Modelagem de entidades e regras de negócio;
+- Geração automatizada de planilhas e relatórios;
+- Código estruturado para manutenção e evolução.
+
+**Tecnologias**
+
+`Python` `ETL` `Pandas` `XML` `Excel`
+
+**Repositório →** *https://github.com/ezequiel-d-almeida/Gerenciador-de-gastos-empresariais-via-NF-e*
+
+---
+
+## Sales Tracker
+
+Aplicação desenvolvida para centralizar indicadores comerciais e transformar dados operacionais em informações úteis para acompanhamento de desempenho e tomada de decisão.
+
+**O que você encontrará neste projeto**
+
+- Integração entre banco de dados e interface;
+- Modelagem de informações comerciais;
+- Dashboards e indicadores;
+- Arquitetura voltada à evolução contínua do sistema.
+
+**Tecnologias**
+
+`Python` `PostgreSQL` `FastAPI` `React`
+
+**Repositório →** *https://github.com/ezequiel-d-almeida/sales-tracker*
+
+---
+
+## Dashboard Comercial
+
+Projeto de análise de dados voltado à construção de indicadores para acompanhamento financeiro e operacional, utilizando modelagem de dados e visualizações interativas.
+
+**O que você encontrará neste projeto**
+
+- Processo completo de preparação dos dados;
+- Modelagem analítica;
+- Dashboards desenvolvidos em Power BI;
+- Indicadores para apoio à tomada de decisão.
+
+**Tecnologias**
+
+`Power BI` `Excel` `SQL`
+
+**Repositório →** *(link)*
+
+---
+
+## TaskFlow
+
+Aplicação web desenvolvida para gerenciamento de tarefas e acompanhamento da produtividade, demonstrando integração entre desenvolvimento de software e visualização de informações.
+
+**O que você encontrará neste projeto**
+
+- Interface construída em React;
+- Componentização;
+- Persistência local dos dados;
+- Dashboard de produtividade;
+- Organização de código em módulos.
+
+**Tecnologias**
+
+`React` `TypeScript` `HTML` `CSS`
+
+**Repositório →** *https://github.com/ezequiel-d-almeida/TaskFlow*
+
+---
+
+# O que você encontrará neste GitHub
+
+Este portfólio foi organizado para refletir a forma como desenvolvo soluções de dados. Independentemente do projeto, você encontrará uma preocupação constante com arquitetura, organização do código e documentação técnica.
+
+Os repositórios normalmente incluem:
+
+- Arquitetura modular com responsabilidades bem definidas;
+- Documentação técnica e instruções de utilização;
+- Estrutura organizada para facilitar manutenção e evolução;
+- Modelagem de dados e regras de negócio documentadas;
+- Código desenvolvido com foco em legibilidade e reutilização;
+- Histórico de evolução do projeto e decisões de implementação.
+
+Mais do que apresentar soluções funcionando, o objetivo é demonstrar como elas foram projetadas, desenvolvidas e organizadas.
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/almeida-ezequiel"><img src="https://img.shields.io/badge/-LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=8AB4F8" /></a>
-<a href="mailto:Almeida.d.ezequiel@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=8AB4F8" /></a>
-<a href="https://github.com/ezequiel-d-almeida"><img src="https://img.shields.io/badge/-GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=8AB4F8" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequiel-d-almeida&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/almeida-ezequiel">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Almeida.d.ezequiel@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ezequiel-d-almeida">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
