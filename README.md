@@ -38,18 +38,18 @@ Os princípios que orientam meus projetos são:
 Independentemente da tecnologia utilizada, meus projetos seguem uma arquitetura baseada em etapas bem definidas. Essa organização reduz o acoplamento entre componentes, facilita a manutenção do código e torna as soluções mais simples de evoluir.
 
 ```text
-              Problema de Negócio -->  Compreensão do Domínio --> Ingestão dos Dados --> Validação e Padronização
-                                                                                                    |
-                                                                                                    ▼
 
-                                                                                      Transformação das Informações
-                                                                                                    │
-                                                                                                    ▼
-
-              |--- Dashboards, Aplicações e Relatórios <-- Regras de Negócio e APIs <-- Persistência e Modelagem
-              │
-              ▼
-  Suporte à Tomada de Decisão
+            Problema de Negócio -->  Compreensão do Domínio --> Ingestão dos Dados --> Validação e Padronização
+                                                                                                 │
+                                                                                                 ▼
+                                                                                   Transformação das Informações
+                                                                                                 │
+                                                                                                 ▼
+                                                                                    Persistência e Modelagem
+                                                                                                 │ 
+                                                                                                 ▼
+              Suporte à Tomada de Decisão <-- Dashboards, Aplicações e Relatórios <-- Regras de Negócio e APIs 
+  
 ```
 
 Essa estrutura é aplicada em diferentes tipos de projetos, desde pipelines ETL para processamento de documentos fiscais até aplicações web e soluções analíticas. O objetivo permanece o mesmo: transformar dados em ativos confiáveis que possam ser utilizados por pessoas, sistemas e processos de negócio.
@@ -243,8 +243,6 @@ Projeto de análise de dados voltado à construção de indicadores para acompan
 **Tecnologias**
 
 `Power BI` `Excel` `SQL`
-
-**Repositório →** *(link)*
 
 ---
 
