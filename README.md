@@ -39,16 +39,16 @@ Independentemente da tecnologia utilizada, meus projetos seguem uma arquitetura 
 
 ```text
 
-            Problema de Negócio -->  Compreensão do Domínio --> Ingestão dos Dados --> Validação e Padronização
-                                                                                                 │
-                                                                                                 ▼
-                                                                                   Transformação das Informações
-                                                                                                 │
-                                                                                                 ▼
-                                                                                    Persistência e Modelagem
-                                                                                                 │ 
-                                                                                                 ▼
-              Suporte à Tomada de Decisão <-- Dashboards, Aplicações e Relatórios <-- Regras de Negócio e APIs 
+Problema de Negócio -->  Compreensão do Domínio --> Ingestão dos Dados --> Validação e Padronização
+                                                                                     │
+                                                                                     ▼
+                                                                        Transformação das Informações
+                                                                                     │
+                                                                                     ▼
+                                                                        Persistência e Modelagem
+                                                                                     │ 
+                                                                                     ▼
+Suporte à Tomada de Decisão <-- Dashboards, Aplicações e Relatórios <-- Regras de Negócio e APIs 
   
 ```
 
