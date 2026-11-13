@@ -1,21 +1,8 @@
 <div align="center">  <a href="https://github.com/ezequiel-d-almeida">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=850&color=E6EDF3&center=true&vCenter=true&repeat=true&width=620&height=65&lines=Ezequiel+Almeida;Full+Stack+Developer" alt="Ezequiel Almeida — Full Stack Developer" />
-  </a>  <p>Building web applications, from interface to API and database.</p>  <a href="https://github.com/ezequiel-d-almeida?tab=repositories">Repositories</a>
- · 
-<a href="https://github.com/ezequiel-d-almeida?tab=overview">Activity</a>
-  
-
-
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,java,spring,python,fastapi,postgres,docker,git&perline=7&theme=dark" alt="Tech stack: React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Java, Spring, Python, FastAPI, PostgreSQL, Docker and Git" />  
-
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ezequiel-d-almeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9DA7B3&icon_color=58A6FF&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel-d-almeida&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9DA7B3&langs_count=6" alt="Most used languages across public repositories" />
-      </td>
-    </tr>
-  </table>  <img src="https://streak-stats.demolab.com?user=ezequiel-d-almeida&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=9DA7B3&dates=9DA7B3" alt="GitHub contribution streak" /></div>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=27&amp;duration=2700&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=560&amp;height=58&amp;lines=Ezequiel+Almeida;Full+Stack+Developer" alt="Ezequiel Almeida / Full Stack Developer" />
+  </a>  <p>Building web applications, from interface to API and database.</p>  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,java,spring,python,fastapi,postgres,docker,git&amp;perline=7&amp;theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Java, Spring Boot, Python, FastAPI, PostgreSQL, Docker, Git" />  <br />
+  <br />  <a href="https://github.com/ezequiel-d-almeida">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=ezequiel-d-almeida&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=E6EDF3&amp;text_color=9DA7B3&amp;icon_color=58A6FF&amp;rank_icon=github" alt="GitHub statistics" />
+  </a>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ezequiel-d-almeida&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=E6EDF3&amp;text_color=9DA7B3&amp;langs_count=6" alt="Most used languages" />  <br />
+  <br />  <img src="https://streak-stats.demolab.com?user=ezequiel-d-almeida&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=E6EDF3&amp;sideLabels=9DA7B3&amp;dates=9DA7B3" alt="Contribution streak" /></div>
